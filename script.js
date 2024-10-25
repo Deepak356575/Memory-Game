@@ -120,9 +120,9 @@ function checkmatch() {
 
   if(cardswon.length == cardarray.length/2){
     
-    
+    alert("Congratulations , you won!");
   }
-  alert("Congratulations , you won!");
+  
 
   }
   
