@@ -78,7 +78,6 @@ function createboard() {
     card.addEventListener("click", flipcard);
     griddisplay.appendChild(card);
   }
-  console.log(cardarray);
 }
 
 cardchosen = [];
@@ -122,11 +121,7 @@ function checkmatch() {
     
     alert("Congratulations , you won!");
   }
-  
-
   }
-  
-
 
 
 createboard();
