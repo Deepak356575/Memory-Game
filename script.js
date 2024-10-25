@@ -122,10 +122,10 @@ function checkmatch() {
     
     
   }
-  
+  alert("Congratulations , you won!");
 
   }
-  alert("Congratulations , you won!");
+  
 
 
 
