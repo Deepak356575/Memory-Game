@@ -119,10 +119,13 @@ function checkmatch() {
     cardchosenid = [];
 
   if(cardswon.length == cardarray.length/2){
-    resultdisplay.innerHTML='Supr d bodhuku'
-    alert("love you d bodhukku")
+    
+    
   }
+  
+
   }
+  alert("Congratulations , you won!");
 
 
 
